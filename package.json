@@ -1,7 +1,7 @@
 {
-  "name": "agar-clone",
+  "name": "yamiballgo",
   "version": "1.0.0",
-  "description": "A simple Agar.io clone",
+  "description": "yamiballgo A simple Agar.io clone",
   "main": "server/server.js",
   "scripts": {
     "build": "gulp build",
